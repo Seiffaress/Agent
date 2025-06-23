@@ -1,2 +1,3 @@
-def add(a, b)))))
-return a + b
+def kesm(b):
+    a=0
+    return b/a
